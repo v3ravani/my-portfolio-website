@@ -2,7 +2,7 @@
 
 > **"I create quality experience for humans"** - A modern, responsive portfolio showcasing engineering talent and creative development skills.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-viraj--ravani.netlify.app-brightgreen)](https://v3ravani.github.io/my-portfolio-website/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub-Pages)](https://v3ravani.github.io/my-portfolio-website/)
 [![GitHub](https://img.shields.io/badge/GitHub-v3ravani-blue)](https://github.com/v3ravani)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Ravani-0077B5)](https://www.linkedin.com/in/virajravani)
 
